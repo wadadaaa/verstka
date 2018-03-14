@@ -1,0 +1,16 @@
+a {
+    color: #c678dd;
+  }
+
+  header {
+      background-color: #FD739C;
+      color: azure;
+  }
+  h1, h2 {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  body {
+      font-size: 22px;
+      line-height: 43px;
+    
+  }
